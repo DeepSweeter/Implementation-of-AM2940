@@ -1,1 +1,1 @@
-Proiect: Implementare in Verilog AM2940
+Project: Implementation of AM2940 circuit in Verilog.
